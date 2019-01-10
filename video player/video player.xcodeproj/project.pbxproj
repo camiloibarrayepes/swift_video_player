@@ -13,6 +13,7 @@
 		CF3125F621E6F83D00D6F2E8 /* video_player.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF3125F421E6F83D00D6F2E8 /* video_player.xcdatamodeld */; };
 		CF3125F821E6F84000D6F2E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF3125F721E6F84000D6F2E8 /* Assets.xcassets */; };
 		CF3125FB21E6F84000D6F2E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF3125F921E6F84000D6F2E8 /* LaunchScreen.storyboard */; };
+		CF31260621E7036500D6F2E8 /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CF31260521E7036500D6F2E8 /* video.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CF3125F721E6F84000D6F2E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF3125FA21E6F84000D6F2E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF3125FC21E6F84000D6F2E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF31260521E7036500D6F2E8 /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		CF3125E121E6F83D00D6F2E8 = {
 			isa = PBXGroup;
 			children = (
+				CF31260521E7036500D6F2E8 /* video.mp4 */,
 				CF3125EC21E6F83D00D6F2E8 /* video player */,
 				CF3125EB21E6F83D00D6F2E8 /* Products */,
 			);
@@ -128,6 +131,7 @@
 				CF3125FB21E6F84000D6F2E8 /* LaunchScreen.storyboard in Resources */,
 				CF3125F821E6F84000D6F2E8 /* Assets.xcassets in Resources */,
 				CF3125F321E6F83D00D6F2E8 /* Main.storyboard in Resources */,
+				CF31260621E7036500D6F2E8 /* video.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
